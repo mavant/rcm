@@ -37,6 +37,7 @@ TESTS = \
 	test/mkrc-usage.t \
 	test/mkrc-undotted.t \
 	test/rcrc-custom.t \
+	test/rcrc-excludes.t \
 	test/rcrc-tilde.t \
 	test/rcrc-hostname.t \
 	test/rcrc.t \
